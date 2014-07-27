@@ -1,0 +1,3 @@
+Settings PWR/SPD
+RASTER    70/100
+VECTOR   100/  3
