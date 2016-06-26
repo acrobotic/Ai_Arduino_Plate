@@ -1,6 +1,6 @@
 ## Ai\_Plate\_Arduino
 
-Acrobotic-made plastic mounting plate for Arduino UNO R3 and Arduino MEGA 2560,
+ACROBOTIC-made plastic mounting plate for Arduino UNO R3 and Arduino MEGA 2560,
 which include space for the boards themselves alongside a half-size breadboard.
 
 ## Description
